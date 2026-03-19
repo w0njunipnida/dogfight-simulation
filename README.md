@@ -14,7 +14,7 @@ Three.js를 활용한 3D 비행 시뮬레이션 개인 프로젝트입니다.
 - 사용자 입력 기반 조작
 - Firebase 연동
 - 
-## firebase Hosting adress
+## firebase Hosting address
 - https://dogfight-32b50.web.app/
 - 
 ## 🚀 실행 방법
